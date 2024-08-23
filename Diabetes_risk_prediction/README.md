@@ -22,4 +22,4 @@ Several models were evaluated, both before and after hyperparameter tuning, to d
 
 ### Conclusion
 
-Given the critical nature of accurately identifying diabetic patients, **Logistic Regression** was chosen as the best model for this task due to its superior recall performance, both before and after tuning.
+Given the critical nature of accurately identifying diabetic patients, **Logistic Regression** was chosen as the best model for this task due to its superior recall performance.
