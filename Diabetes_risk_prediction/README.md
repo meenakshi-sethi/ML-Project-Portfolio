@@ -15,7 +15,7 @@ Several models were evaluated, both before and after hyperparameter tuning, to d
 
 ### Key Findings
 
-- **Logistic Regression (Untuned and Tuned)** demonstrated the highest recall score of **0.7428** for both versions, making it the most effective model for predicting diabetes with minimal false negatives.
+- **Logistic Regression (Untuned)** demonstrated the highest recall score of **0.7428** for both versions, making it the most effective model for predicting diabetes with minimal false negatives.
 - **XGBoost (Untuned)** performed well with a recall score of **0.7428**, but its performance declined after tuning, with a recall score dropping to **0.1172**.
 - **Random Forest (Untuned)** showed a moderate recall score of **0.3356**, which further declined after tuning to **0.0800**.
 - **Naive Bayes (Untuned)** had the lowest recall score of **0.0323**, indicating it is less reliable for this specific prediction task.
